@@ -13,12 +13,12 @@ class Grass{
   
   
   Grass(float x1, float y1,float x2,float y2,float x3,float y3){
-    x1position=x1;
-    y1position=y1;
-    x2position=x2;
-    y2position=y2;
-    x3position=x3;
-    y3position=y3;
+    this.x1position=x1;
+    this.y1position=y1;
+    this.x2position=x2;
+    this.y2position=y2;
+    this.x3position=x3;
+    this.y3position=y3;
     
   
 }
