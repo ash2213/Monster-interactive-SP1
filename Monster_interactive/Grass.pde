@@ -24,7 +24,7 @@ class Grass{
 }
 void display(){
   fill(0,255,0);
-  triangle(x1position,y1position,x2position,y2position,x3position,y3position);
+  triangle(this.x1position,this.y1position,this.x2position,this.y2position,this.x3position,this.y3position);
   
 }
   
