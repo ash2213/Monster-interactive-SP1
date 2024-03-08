@@ -36,7 +36,7 @@ void draw() {
   a.legsFeetLeft();
   d.legsFeetRight();
   e.eyes();
-  //making a foreach loop too make 
+  //making a foreach loop to go through the array and then displaying the loop with every part.
   for(Grass s : grass){
    s.display();
   }  
